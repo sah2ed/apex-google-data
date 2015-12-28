@@ -1,6 +1,7 @@
 # apex-google-data
 Automatically exported from [code.google.com/p/apex-google-data](https://code.google.com/p/apex-google-data/)
 
+SFDC setup instructions albeit from July 2008: [Google Data APIs Toolkit Setup](https://developer.salesforce.com/page/Google_Data_APIs_Toolkit_Setup)
 
 # About the Toolkit
 
